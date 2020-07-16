@@ -13,4 +13,4 @@ It is required that you have python3 installed on your device.
 3. Run sorter.py with the following command:
     python3 snake.py
 
-Note: The "snake" file is an executable only compatible with Linux!
+NOTE: The "snake" file is an executable only compatible with Linux!
